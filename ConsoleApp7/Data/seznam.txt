@@ -1,0 +1,9 @@
+40;Petr Hanák;Junior Programátor;
+41;Ivan Hanák;Policista;
+36;Lucie Kučerová;Maminka v domácnosti;
+15;Daniela Kučerová;Teeneger;
+2;Adéla Hanáková;Trpaslík;
+6;Ema Hanáková;Čertík;
+62;Ivan Hanák;Důchodce;
+61;Eva Hanáková;Důchodkyně;
+
